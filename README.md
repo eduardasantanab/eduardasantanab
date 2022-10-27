@@ -1,4 +1,4 @@
-## Olá, eu sou a Eduarda Santana!
+## Olá, eu sou Eduarda Santana!
 
 💻 Atualmente estudando Java e desenvolvimento fullstack
 
