@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Desenvolvedora Full Stack<br>🔎 Procurando estágio em Recife/PE ou remoto<br>🎓 Cursando o terceiro período de Ciência da Computação<br>😊 Pronome: ela/dela
+🔎 Procurando estágio em Recife/PE ou remoto<br>🎓 Cursando o sexto período de Ciência da Computação<br>😊 Pronome: ela/dela
 
 
 ## 🌐 Socials:
