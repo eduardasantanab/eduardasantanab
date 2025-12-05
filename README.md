@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔎 Procurando estágio em Recife/PE ou remoto<br>🎓 Cursando o sexto período de Ciência da Computação<br>😊 Pronome: ela/dela
+🔎 Procurando estágio em Recife/PE ou remoto<br>🎓 Cursando o último período de Ciência da Computação<br>😊 Pronome: ela/dela
 
 
 ## 🌐 Socials:
