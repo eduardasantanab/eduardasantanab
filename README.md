@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Bacharel em Ciência da Computação pela UNICAP<br> 
+🎓 Bacharel em Ciência da Computação pela Universidade Católica de Pernambuco/UNICAP<br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardasantanab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardasantanab) 
